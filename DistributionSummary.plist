@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>智慧会管.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>34455388EB3C7E4F51D2738412C20A9D52827B5A</string>
+				<key>dateExpires</key>
+				<string>2021/3/8</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>FNK76XWED5.net.evecom.cloud.meetings</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>FNK76XWED5</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>智慧会管.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7531c899-9c2d-40c2-b4ba-20aca4fe8689</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: net.evecom.cloud.meetings</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>FNK76XWED5</string>
+				<key>name</key>
+				<string>Evecom Technology Co.,Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
